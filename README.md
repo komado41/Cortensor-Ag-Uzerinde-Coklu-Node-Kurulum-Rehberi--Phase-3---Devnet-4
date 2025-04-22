@@ -123,6 +123,8 @@ PUBLIC_KEY : Madenci düğümünüzün EVM adresi.
 
 PRIVATE_KEY : Madenci düğümünüzün EVM özel anahtarı.
 
+ÖNEMLİ HATIRLATMA NODE UN DÜZELİ ÇALIŞMASI İÇİN  MINER YANİ EVM CUZDANINIZIN ARB SEPOLİA KISMINDA 2 ETH BULUNDURUN
+
 **örnek : 1 node için çalışan örnek docker-compose.yaml  dosyasının içeriği **
 
 ```bash 
