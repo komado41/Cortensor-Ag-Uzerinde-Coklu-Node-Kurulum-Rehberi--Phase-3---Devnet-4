@@ -2,7 +2,12 @@
   
 NOTE :This guide is quoted from https://docs.aldebaranode.xyz/guide/testnet/cortensor/installation
 
+🖥Minimum Sistem Gereksinimleri
 
+➡️OS: Ubuntu
+➡️CPU: 6
+➡️Memory: 16GB
+➡️Disk: 100GB
 
 ## 🌐 1. Cortensor Discord'a Katılın
 
