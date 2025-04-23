@@ -111,8 +111,9 @@ git clone https://github.com/mrheed/cortensor-installer.git && cd cortensor-inst
 
 ## Adım 3 - Docker Compose'u yapılandırın
 
-```bash 
-build.sh 
+```bash
+chmod +x build.sh
+./build.sh
 ```
 betiğini çalıştırın. Betik şunları yapacaktır:
 
